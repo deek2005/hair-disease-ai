@@ -1,18 +1,13 @@
 # Hair Disease Detection and Intelligent Clinical Reporting System
 
 ## Abstract
-
 Hair and scalp disorders affect millions of individuals worldwide and often require expert dermatological evaluation for accurate diagnosis. This project presents an AI-powered Hair Disease Detection and Intelligent Clinical Reporting System that assists in the early identification of common hair and scalp diseases using deep learning techniques. The system utilizes a Convolutional Neural Network (CNN) trained on scalp image datasets to classify multiple hair-related conditions. In addition to disease prediction, the platform generates automated medical reports, provides explainable AI visualizations using Grad-CAM, supports patient record management, and enables future integration with telemedicine and federated learning frameworks. The solution aims to improve accessibility, reduce diagnosis time, and support healthcare professionals with intelligent decision-making tools.
-
 
 # 1. Introduction
 
 Hair and scalp diseases such as Alopecia Areata, Folliculitis, Psoriasis, Seborrheic Dermatitis, and Tinea Capitis significantly impact an individual's physical appearance and psychological well-being. Traditional diagnosis relies heavily on specialist dermatologists and manual visual examination, which may not always be accessible in remote or underserved regions.
-
 Recent advancements in Artificial Intelligence (AI), Deep Learning (DL), and Computer Vision have demonstrated promising results in medical image analysis. By leveraging these technologies, automated diagnostic systems can assist healthcare providers in detecting diseases more efficiently and accurately.
-
 This project proposes an intelligent Hair Disease Detection System capable of:
-
 * Detecting hair and scalp diseases from uploaded images.
 * Providing confidence-based predictions.
 * Generating explainable AI visualizations.
@@ -20,17 +15,13 @@ This project proposes an intelligent Hair Disease Detection System capable of:
 * Producing downloadable PDF reports.
 * Supporting future cloud deployment and telemedicine applications.
 
-
-
 # 2. Problem Statement
 
 Early diagnosis of hair and scalp diseases is often delayed due to:
-
 * Limited access to dermatologists.
 * High consultation costs.
 * Subjective human interpretation.
 * Lack of automated screening tools.
-
 The objective of this project is to develop an AI-based web application capable of accurately identifying hair diseases from scalp images while generating comprehensive clinical reports to support healthcare professionals and patients.
 
 
